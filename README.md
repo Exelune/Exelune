@@ -1,6 +1,6 @@
 # Exelune
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exelune703)](https://solved.ac/exelune703/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exelune&show_icons=true&theme=transparent)
+![exelune's GitHub stats](https://github-readme-stats.vercel.app/api?username=exelune&show_icons=true&theme=transparent)
 
 # Languages & Tools
 ![Csharp](https://img.shields.io/badge/C%23-ffffff.svg?&style=for-the-badge&logoColor=black)
